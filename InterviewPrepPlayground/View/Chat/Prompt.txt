@@ -1,0 +1,37 @@
+🧑‍💻 iOS Practical Interview Prompt
+
+Prompt:
+"Build a simple SwiftUI chat interface that supports:
+
+A scrollable list of chat messages, with clear visual distinction between incoming and outgoing messages.
+
+An input bar fixed at the bottom with a text field and a send button.
+
+Automatically scrolls to the latest message when a new one is sent.
+
+Messages should be stored in a @State or @StateObject and displayed with dynamic sizing.
+
+(Bonus) Add a typing indicator when the user starts entering text."
+
+Time limit: 30–45 minutes.
+
+Evaluation Criteria:
+
+UI structure and layout using SwiftUI best practices
+
+ViewModel usage and state management
+
+Reusability and separation of concerns
+
+Accessibility considerations
+
+Smooth scrolling and keyboard handling
+
+
+** RESULTS **
+
+Time Taken: ~43 minutes
+
+Pain Points:
+- Took me a little too long to think of the HStack for aligning messages in chat view
+- Don't like the frame maxHeight solution for the textfield. Overall text field is ugly.
