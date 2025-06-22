@@ -16,6 +16,6 @@ Interviews are separated by type.
 
 - Start with a prompt, make UI.
 
-### Architecture Design
+### Architecture
 
 - ChatGPT makes requirements, I mock the Arch.
