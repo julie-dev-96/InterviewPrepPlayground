@@ -31,11 +31,6 @@
 			path = InterviewPrepPlayground;
 			sourceTree = "<group>";
 		};
-		E719A22C2E0747B600655B94 /* InterviewPrepPlaygroundTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = InterviewPrepPlaygroundTests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +56,6 @@
 			isa = PBXGroup;
 			children = (
 				E719A21F2E0747B600655B94 /* InterviewPrepPlayground */,
-				E719A22C2E0747B600655B94 /* InterviewPrepPlaygroundTests */,
 				E719A21E2E0747B600655B94 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -123,9 +117,6 @@
 			);
 			dependencies = (
 				E719A22B2E0747B600655B94 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				E719A22C2E0747B600655B94 /* InterviewPrepPlaygroundTests */,
 			);
 			name = InterviewPrepPlaygroundTests;
 			packageProductDependencies = (

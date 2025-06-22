@@ -1,0 +1,12 @@
+Chat GPT: https://chatgpt.com/share/68583971-de38-8009-be91-dbb540537a8f
+
+You’re working on a new messaging app.
+Product wants to introduce a soft hourly message limit (e.g., 100 messages per hour) to reduce spam.
+
+If a user goes over the limit, they should see a non-blocking warning (“You’ve sent a lot of messages. You’ll be able to send more soon.”)
+If they repeatedly go over, the system should start rate-limiting them (e.g., delays or temporary lockouts).
+
+Can you walk me through how you’d architect this feature across the stack — backend and mobile?
+Feel free to clarify anything as needed.
+
+Excalidraw: https://excalidraw.com/#json=Jk0LNX_Q1jm-mKId1fCtW,vCJnFCnmeadvMlTmpEdnUg
